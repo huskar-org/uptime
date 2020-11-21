@@ -7,7 +7,9 @@ sites:
   - name: Huskar Console Demo
     url: https://demo.huskar.org
   - name: Huskar API Demo
-    url: https://api.demo.huskar.org
+    url: https://api.demo.huskar.org/api/health_check
+    expectedStatusCodes:
+     - 200
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
