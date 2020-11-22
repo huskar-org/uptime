@@ -5,7 +5,7 @@
     "slug": "huskar-console-demo",
     "status": "up",
     "uptime": "100.00",
-    "time": 892
+    "time": 868
   },
   {
     "name": "Huskar API Demo",
@@ -13,6 +13,6 @@
     "slug": "huskar-api-demo",
     "status": "up",
     "uptime": "100.00",
-    "time": 791
+    "time": 752
   }
 ]
