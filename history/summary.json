@@ -5,14 +5,14 @@
     "slug": "huskar-console-demo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 676
+    "time": 689
   },
   {
     "name": "Huskar API Demo",
     "url": "https://api.demo.huskar.org/api/health_check",
     "slug": "huskar-api-demo",
     "status": "up",
-    "uptime": "99.89%",
-    "time": 606
+    "uptime": "99.91%",
+    "time": 631
   }
 ]
