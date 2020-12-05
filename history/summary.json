@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 702,
-    "timeDay": 717,
-    "timeWeek": 713,
-    "timeMonth": 702,
-    "timeYear": 702
+    "time": 706,
+    "timeDay": 765,
+    "timeWeek": 731,
+    "timeMonth": 706,
+    "timeYear": 706
   },
   {
     "name": "Huskar API Demo",
@@ -25,10 +25,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 704,
-    "timeDay": 864,
-    "timeWeek": 775,
-    "timeMonth": 704,
-    "timeYear": 704
+    "time": 713,
+    "timeDay": 838,
+    "timeWeek": 801,
+    "timeMonth": 713,
+    "timeYear": 713
   }
 ]
