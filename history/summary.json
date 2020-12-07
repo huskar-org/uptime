@@ -2,6 +2,7 @@
   {
     "name": "Huskar Console Demo",
     "url": "https://demo.huskar.org",
+    "icon": "https://favicons.githubusercontent.com/demo.huskar.org",
     "slug": "huskar-console-demo",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 716,
-    "timeDay": 870,
-    "timeWeek": 743,
-    "timeMonth": 716,
-    "timeYear": 716
+    "time": 722,
+    "timeDay": 833,
+    "timeWeek": 795,
+    "timeMonth": 722,
+    "timeYear": 722,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Huskar API Demo",
     "url": "https://api.demo.huskar.org/api/health_check",
+    "icon": "https://favicons.githubusercontent.com/api.demo.huskar.org",
     "slug": "huskar-api-demo",
     "status": "up",
     "uptime": "99.97%",
@@ -25,10 +28,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 723,
-    "timeDay": 890,
-    "timeWeek": 816,
-    "timeMonth": 723,
-    "timeYear": 723
+    "time": 717,
+    "timeDay": 619,
+    "timeWeek": 839,
+    "timeMonth": 717,
+    "timeYear": 717,
+    "dailyMinutesDown": {
+      "2020-11-21": 6
+    }
   }
 ]
