@@ -1,7 +1,7 @@
 url: https://demo.huskar.org
-status: up
-code: 200
-responseTime: 792
-lastUpdated: 2021-03-17T23:01:38.465Z
+status: down
+code: 502
+responseTime: 466
+lastUpdated: 2021-03-18T19:00:03.776Z
 startTime: Tue Jan 05 2021 18:18:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
