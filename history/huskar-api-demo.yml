@@ -1,7 +1,7 @@
 url: https://api.demo.huskar.org/api/health_check
 status: up
 code: 200
-responseTime: 716
-lastUpdated: 2021-11-30T23:02:42.544Z
+responseTime: 433
+lastUpdated: 2021-12-01T23:02:47.352Z
 startTime: Tue Jan 05 2021 18:18:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
